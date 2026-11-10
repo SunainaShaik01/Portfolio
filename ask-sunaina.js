@@ -2,8 +2,8 @@
    <script src="ask-sunaina.js" defer></script>
    Two modes: "Ask" (recruiter Q&A) and "Interview me" (answers as Sunaina in STAR style). */
 (() => {
-  const API_URL = "https://ask-sunainas-api.vercel.app/api/chat"; // <- your deployed proxy
-  const ACCENT = "#7ee0c3"; // <- match your site's accent color
+  const API_URL = "https://ask-sunainas-api.vercel.app/api/chat"; 
+  const ACCENT = "#BB002F"; // 
   const EMAIL = "Sunainashaik01@gmail.com";
 
   const ASK_CHIPS = [
